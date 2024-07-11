@@ -1,0 +1,5 @@
+.DS_Store
+build/
+dist/
+simplify5d.egg-info/
+.vscode/

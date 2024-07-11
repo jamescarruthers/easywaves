@@ -1,0 +1,10 @@
+README.md
+setup.py
+easywaves/__init__.py
+easywaves/curves.py
+easywaves/easywaves.py
+easywaves.egg-info/PKG-INFO
+easywaves.egg-info/SOURCES.txt
+easywaves.egg-info/dependency_links.txt
+easywaves.egg-info/requires.txt
+easywaves.egg-info/top_level.txt
